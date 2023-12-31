@@ -2,13 +2,19 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "alghwalbi_prompter_cli",
+      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/alghwalbi_prompter_cli-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "images_converter_cli",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-12-31T12:15:51.426568Z",
+  "generated": "2023-12-31T12:23:15.041234Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
