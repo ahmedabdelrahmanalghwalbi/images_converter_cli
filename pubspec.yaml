@@ -1,0 +1,21 @@
+# Notes to publish package to pub dev :-
+# first :- use this command to know the steps to publish your package
+# flutter pub publish -n
+# then to publish this package i will use this command
+# flutter pub publish
+
+#package repository
+repository: https://github.com/ahmedabdelrahmanalghwalbi/dart_prompet_cli
+#package respository issues
+issue_tracker: https://github.com/ahmedabdelrahmanalghwalbi/dart_prompet_cli/issues
+#one of the requirements to upload this package is provide home page
+homepage: https://www.linkedin.com/in/ahmed-abdelrahman-ali-96b249201/
+#one of the requirements to upload this package is provide sdk version
+environment:
+  sdk: "^3.1.5"
+# my project name
+name: images_converter_cli
+#my project version
+version: 1.0.0
+#my project description
+description: Library to convert images extensions
