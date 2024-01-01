@@ -14,8 +14,8 @@ homepage: https://www.linkedin.com/in/ahmed-abdelrahman-ali-96b249201/
 environment:
   sdk: "^3.1.5"
 dependencies:
-    alghwalbi_prompter_cli: ^1.0.2
-    image: ^4.1.3
+  alghwalbi_prompter_cli: ^1.0.3
+  image: ^4.1.3
 # my project name
 name: alghwalbi_images_converter
 #my project version

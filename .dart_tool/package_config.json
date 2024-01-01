@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "alghwalbi_prompter_cli",
-      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/alghwalbi_prompter_cli-1.0.2",
+      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/alghwalbi_prompter_cli-1.0.3",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -86,7 +86,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-01-01T03:16:17.421771Z",
+  "generated": "2024-01-01T03:46:11.501669Z",
   "generator": "pub",
-  "generatorVersion": "3.1.5"
+  "generatorVersion": "3.2.3"
 }

@@ -5,10 +5,10 @@ packages:
     dependency: "direct main"
     description:
       name: alghwalbi_prompter_cli
-      sha256: acde303e04f52fe2c4b74ad4f71c70031cab37da889eff25520338e686f26dec
+      sha256: "3aeef5f4f28535dd7e47efabfa301ed67cca470381ba13da5ce920295d07a4c3"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.2"
+    version: "1.0.3"
   archive:
     dependency: transitive
     description:
