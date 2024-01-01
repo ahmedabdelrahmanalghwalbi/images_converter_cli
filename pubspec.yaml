@@ -19,6 +19,6 @@ dependencies:
 # my project name
 name: alghwalbi_images_converter
 #my project version
-version: 1.0.0
+version: 1.0.1
 #my project description
 description: A tool for image conversion
