@@ -57,9 +57,9 @@
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.0.2",
+      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.0"
     },
     {
       "name": "pointycastle",
@@ -75,9 +75,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.5.0",
+      "rootUri": "file:///C:/Users/ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.4.2",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.0"
     },
     {
       "name": "alghwalbi_images_converter",
@@ -86,7 +86,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-12-31T15:00:16.868834Z",
+  "generated": "2024-01-01T03:16:17.421771Z",
   "generator": "pub",
-  "generatorVersion": "3.2.3"
+  "generatorVersion": "3.1.5"
 }

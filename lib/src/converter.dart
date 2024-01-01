@@ -6,9 +6,9 @@ String convertImage(FileSystemEntity selecetdFile, String formate) {
   final Image? image = decodeImage(rawImage);
   var newImage;
   switch (formate) {
-    case 'jpg':
+    case '.jpg':
       newImage = encodeJpg(image!);
-    case 'png':
+    case '.png':
       newImage = encodePng(image!);
     default:
       stdout.writeln("Unsupported file type");

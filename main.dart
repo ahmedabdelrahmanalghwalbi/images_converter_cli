@@ -17,13 +17,13 @@ void main() {
       prompter.buildBinaryQuestion(prompt: "Open The Image ? ", options: []);
   if (openImage == true) {
     //this method Proccess.run() is Equale that when i write open command in terminal >open image.png
-    Process.run('Open', [newImagePathAfterConverting]);
+    Process.run('open', [newImagePathAfterConverting]);
   }
 }
 
 List<OptionModel> buildFormatAction() => [
-      OptionModel(label: 'Convert to jpeg', value: 'jpeg'),
-      OptionModel(label: 'Convert to png', value: 'png')
+      OptionModel(label: 'Convert to jpg', value: '.jpg'),
+      OptionModel(label: 'Convert to png', value: '.png')
     ];
 
 List<OptionModel> buildFileOptions() {
